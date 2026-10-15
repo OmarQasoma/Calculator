@@ -30,7 +30,13 @@ keys.addEventListener('click', event => {
 
     console.log("number: "+value);
 
+});      
 
 
+function handleEgyal() {
+    console.log("= "+value);
+}   
 
-});         
+function calculate( firstNum, secondNum, operator) {
+   
+}   
